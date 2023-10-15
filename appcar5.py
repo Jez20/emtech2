@@ -10,7 +10,7 @@ def load_model():
     return model
 
 # Page title and description
-st.title("Car Classifier")
+st.title("OKAW")
 st.write("Upload a car photo, and I'll classify it")
 
 # Upload image
